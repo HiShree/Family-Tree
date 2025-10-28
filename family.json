@@ -1,0 +1,258 @@
+{
+  "id": "root",
+  "name": "Vithoba",
+  "children": [
+    {
+      "id": "parent-a",
+      "name": "Datoba",
+      "children": [
+        {
+          "id": "you",
+          "name": "Bhanudas",
+          "children": [
+            {
+              "name": "Shivaji",
+              "children": [
+                {
+                  "name": "Ashok",
+                  "children": [
+                    {
+                      "name": "Shaurya",
+                      "children": []
+                    },
+                    {
+                      "name": "Shambhu",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "Navanath",
+                  "children": [
+                    {
+                      "name": "Krishnaraj",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "Manisha",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "Tanaji",
+              "children": [
+                {
+                  "name": "Digambar",
+                  "children": []
+                },
+                {
+                  "name": "Ganesh",
+                  "children": []
+                },
+                {
+                  "name": "Ambika",
+                  "children": []
+                },
+                {
+                  "name": "Priyanka",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "Parmeshwar",
+              "children": [
+                {
+                  "name": "Bhagyashree",
+                  "children": []
+                },
+                {
+                  "name": "Omkar",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "Rameshwar",
+              "children": [
+                {
+                  "name": "Uddhav",
+                  "children": [
+                    {
+                      "name": "Shivam",
+                      "children": []
+                    },
+                    {
+                      "name": "Shlok",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "name": "Ramesh",
+                  "children": []
+                },
+                {
+                  "name": "Mangal",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "name": "Shanta",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "sibling",
+          "name": "Janabai",
+          "children": []
+        },
+        {
+          "name": "Jija",
+          "children": [
+            {
+              "name": "Babu",
+              "children": []
+            },
+            {
+              "name": "Ankush",
+              "children": []
+            },
+            {
+              "name": "Lahu",
+              "children": []
+            },
+            {
+              "name": "Dilip",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Dnyanoba",
+          "children": [
+            {
+              "name": "Subhash",
+              "children": []
+            },
+            {
+              "name": "Balu",
+              "children": []
+            },
+            {
+              "name": "Vasanta",
+              "children": []
+            },
+            {
+              "name": "Bandu 1",
+              "children": []
+            },
+            {
+              "name": "Mankarna",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Chatrabhuj",
+          "children": [
+            {
+              "name": "Santosh",
+              "children": []
+            },
+            {
+              "name": "Surekha",
+              "children": []
+            },
+            {
+              "name": "Alka",
+              "children": []
+            },
+            {
+              "name": "Sunu",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Kashinath",
+      "children": [
+        {
+          "name": "Rangnath",
+          "children": [
+            {
+              "name": "Parmeshwar",
+              "children": []
+            },
+            {
+              "name": "Gavkarna",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Janardhan",
+          "children": [
+            {
+              "name": "Mira",
+              "children": []
+            },
+            {
+              "name": "Sakharam",
+              "children": []
+            },
+            {
+              "name": "Tukaram",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Kisan",
+          "children": [
+            {
+              "name": "Ratan",
+              "children": []
+            },
+            {
+              "name": "Rama",
+              "children": []
+            },
+            {
+              "name": "Rai",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Bandu",
+          "children": [
+            {
+              "name": "Hanuman",
+              "children": []
+            },
+            {
+              "name": "Angat",
+              "children": []
+            },
+            {
+              "name": "Rohini",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Pandurang",
+          "children": []
+        }
+      ]
+    }
+  ]
+}

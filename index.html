@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Family Tree</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <h1>👨‍👩‍👧‍👦 Our Family Tree</h1>
+
+  <div class="tree">
+    {% macro render_node(node) %}
+      <ul>
+        <li>
+          {{ node.name }}
+          [<a href="{{ url_for('edit_member', member_id=node.id) }}">Edit</a>]
+          <form method="POST" action="{{ url_for('add_member') }}" style="display:inline;">
+            <input type="hidden" name="parent_id" value="{{ node.id }}">
+            <input type="text" name="name" placeholder="New member name" required>
+            <button type="submit">Add</button>
+          </form>
+
+          {% if node.children %}
+            {% for child in node.children %}
+              {{ render_node(child) }}
+            {% endfor %}
+          {% endif %}
+        </li>
+      </ul>
+    {% endmacro %}
+
+    {{ render_node(family) }}
+  </div>
+</body>
+</html>
